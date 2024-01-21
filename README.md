@@ -2,7 +2,7 @@
 
 This repo contains the code and the documentation for a project that was part of the "Introduction to Robotics" course at the University of Bucharest.
 
-This was developed in a team made up of Mircea Ionescu (https://github.com/mircea-mihail), Moraru Ilinca (https://github.com/ilinca-ana-moraru) and myself (https://github.com/ioananghel).
+This was developed in a team made up of Ionescu Mircea (https://github.com/mircea-mihail), Moraru Ilinca (https://github.com/ilinca-ana-moraru) and myself (https://github.com/ioananghel).
 
 The task for the project was to develop a line follower that would complete a course designed by the professors in as little time as possible.
 
@@ -21,16 +21,16 @@ The motors were attached to the body using 3D printed supports that were also pr
 <summary>
 Physical Requirements
 </summary>
-- Arduino Uno
-- 2x DC Motors
-- 2x Wheels
-- Ball Caster
-- Breadboard
-- LiPo Battery
-- Reflectance Sensor
-- Zip Ties
-- L293D Motor Driver
-- Jumper Wires
+    - Arduino Uno
+    - 2x DC Motors
+    - 2x Wheels
+    - Ball Caster
+    - Breadboard
+    - LiPo Battery
+    - Reflectance Sensor
+    - Zip Ties
+    - L293D Motor Driver
+    - Jumper Wires
 </details>
 
 At the end of the project, we managed to get the robot to complete the course in 15.081 seconds. This run can also be seen in the video showcasing the functionality.
