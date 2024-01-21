@@ -10,11 +10,17 @@ The task for the project was to develop a line follower that would complete a co
 <summary>
 The Design
 </summary>
+  
+---
+
 The design of the robot was made using the initial plastic chassis from it's kit as a stencil. We cut out a new one from cardboard and used it to attach the components in the same way as the original.
 
 The weight distribution was made as even as possible, with the arduino at the back of the car, between the wheels, the LiPo battery in the middle and the small breadboard was placed on top of the ball caster, before the reflectance sensors.
 
 The motors were attached to the body using 3D printed supports that were also provided to us.
+
+---
+
 </details>
 
 <details>
@@ -36,6 +42,8 @@ Physical Requirements
     <li>L293D Motor Driver</li>
     <li>Jumper Wires</li>
   </ul>
+
+---
 
 </details>
 
