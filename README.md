@@ -21,17 +21,21 @@ The motors were attached to the body using 3D printed supports that were also pr
 <summary>
 Physical Requirements
 </summary>
-Used Components:
-  - Arduino Board
-  - 2x DC Motors
-  - 2x Wheels
-  - Ball Caster
-  - Breadboard
-  - LiPo Battery
-  - Reflectance Sensor
-  - Zip Ties
-  - L293D Motor Driver
-  - Jumper Wires
+
+---
+
+  <ul>
+  <li>Arduino Board</li>
+    <li>2x DC Motors</li>
+    <li>2x Wheels</li>
+    <li>Ball Caster</li>
+    <li>Breadboard</li>
+    <li>LiPo Battery</li>
+    <li>Reflectance Sensor</li>
+    <li>Zip Ties</li>
+    <li>L293D Motor Driver</li>
+    <li>Jumper Wires</li>
+  </ul>
 
 </details>
 
