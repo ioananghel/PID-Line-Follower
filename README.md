@@ -21,16 +21,18 @@ The motors were attached to the body using 3D printed supports that were also pr
 <summary>
 Physical Requirements
 </summary>
-    - Arduino Uno
-    - 2x DC Motors
-    - 2x Wheels
-    - Ball Caster
-    - Breadboard
-    - LiPo Battery
-    - Reflectance Sensor
-    - Zip Ties
-    - L293D Motor Driver
-    - Jumper Wires
+Used Components:
+  - Arduino Board
+  - 2x DC Motors
+  - 2x Wheels
+  - Ball Caster
+  - Breadboard
+  - LiPo Battery
+  - Reflectance Sensor
+  - Zip Ties
+  - L293D Motor Driver
+  - Jumper Wires
+
 </details>
 
 At the end of the project, we managed to get the robot to complete the course in 15.081 seconds. This run can also be seen in the video showcasing the functionality.
