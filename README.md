@@ -13,7 +13,7 @@ The Design
   
 ---
 
-The design of the robot was made using the initial plastic chassis from it's kit as a stencil. We cut out a new one from cardboard and used it to attach the components in the same way as the original.
+The design of the robot was made using the initial plastic chassis from it's kit as a stencil. We cut out a new one from styrofoam and used it to attach the components in the same way as the original.
 
 The weight distribution was made as even as possible, with the arduino at the back of the car, between the wheels, the LiPo battery in the middle and the small breadboard was placed on top of the ball caster, before the reflectance sensors.
 
